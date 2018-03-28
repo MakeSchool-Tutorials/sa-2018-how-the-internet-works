@@ -3,13 +3,7 @@ title: "Chrome Developer Tools"
 slug: chrome-dev-tools
 ---
 
-At Make School, one of our core beliefs is to learn by doing. 
-
-Like Tai Lopez, we're all about that _knowledge_. But we believe that humans learn best through action – that means doing, making, building.
-
-These tutorials are designed to be *interactive*. You'll get to see _knowledge_ in action as we learn to build a couple different apps, games and products. When it's all through, our hope is that you'll take your newfound _knowledge_ and use it to create cool things to share with the world.
-
-In this upcoming section, you'll get your first taste of interacting with the concepts you've just learned. We're going to use the _Chrome Developer Tools_ to look at the HTTP request being sent to the server, the HTTP response sent back to the client, and finally the code that the browser renders to display each web page that you use.
+In the previous section, we got a high-level overview of how the internet works. We'll move forward by looking at this process up close. More specifically, we'll use the _Chrome Developer Tools_ to look at the HTTP request being sent to the server, the HTTP response sent back to the client, and finally the code that the browser renders to display each web page that you use.
 
 ![Dev Tools Focus](assets/dev_tools_focus.png)
 
@@ -19,7 +13,7 @@ Roll up your sleeves–let's dive into the dirt!
 
 # Opening the Developer Tools
 
-The Chrome Developer Tools (DevTools for short), are a set of tools that are built into Google Chrome. These DevTools provide web developers with a easy way to view, test and debug thier front-end code.
+The Chrome Developer Tools (DevTools for short), are a set of tools that are built into Google Chrome. These DevTools provide web developers with a easy way to view, test and debug their front-end code.
 
 First, let's learn how to access the DevTools.
 
@@ -34,7 +28,7 @@ Next, find your operating system and following the corresponding instructions to
 ## Open DevTools on Windows
 
 > [action]
-Open DevTools on macOS:
+Open DevTools on Windows:
 >
 TODO:
 

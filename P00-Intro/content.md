@@ -3,17 +3,7 @@ title: "Introduction"
 slug: intro-htiw
 ---
 
-Welcome to the first tutorial of Make School's full-stack web series! As you progress through each of the tutorials, your powers and coding wizardry will become increasingly stronger. Soon enough, you've be able to build websites, make games and maybe even create the next billion-dollar startup (if that's your thing.)
-
-This first tutorial is a call to adventure – the start of your journey into the magical world of building full-stack web apps. 
-
-But first, like every great witch or wizard, you'll need to begin with the basics: learning about *how the internet works.* In addition, we'll look at the tools and technologies we'll be using and how they all fit together (to build web apps.)
-
-Feeling nervious? Excited? Me too. 
-
-But don't worry, we'll go through this journey together.
-
-When you're ready, put a seat belt on your brain–you're going to need it!
+This is the second tutorial of Make School's full-stack web series! In this tutorial, we'll look at the bigger picture of full-stack web development. We'll cover the tools and technologies we'll use and how they all fit together (to build web apps.)
 
 # Who Is This For?
 
@@ -31,7 +21,6 @@ Nothing. As long as you're excited to learn how to build web apps, you're golden
 
 By the end of this tutorial, you will:
 
-- download and install Google Chrome
 - understand (on a high level) how the internet works
 - know how each technology works together to build a web app
 - observe network traffic in real-time
@@ -47,6 +36,4 @@ Most importantly, make sure you're having fun. Building web apps is challenging,
 
 # If You Get Stuck
 
-"Sometimes, magic is just someone spending more time on something than anyone else might reasonably expect." - Teller (Penn & Teller)
-
-Getting stuck when coding (and debugging) is a natural part of the programming process. If you find yourself stuck on a problem or lost, pause for a moment and take a breath. Maybe take a walk. Then retrace your steps (in the tutorial, not the walk.) Make sure you've follow each step of the tutorial. It's easy to make typos or to accidentally skip over important steps.
+Getting stuck when coding (and debugging) is a natural part of the programming process. If you find yourself stuck on a problem or lost, pause for a moment and take a breath. Maybe take a walk. Then retrace your steps (in the tutorial, not the walk.) Make sure you've followed each step of the tutorial. It's easy to make typos or accidentally skip over important steps.
