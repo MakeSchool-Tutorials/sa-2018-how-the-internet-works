@@ -3,7 +3,7 @@ title: "Introduction"
 slug: intro-htiw
 ---
 
-This is the second tutorial of Make School's full-stack web series! In this tutorial, we'll look at the bigger picture of full-stack web development. We'll cover the tools and technologies we'll use and how they all fit together (to build web apps.)
+This is the second tutorial of Make School's full-stack web series! In this tutorial, we'll look at the bigger picture of full-stack web development. We'll cover the tools and technologies we'll use and how they all fit together (to build web apps).
 
 # Who Is This For?
 
@@ -36,4 +36,4 @@ Most importantly, make sure you're having fun. Building web apps is challenging,
 
 # If You Get Stuck
 
-Getting stuck when coding (and debugging) is a natural part of the programming process. If you find yourself stuck on a problem or lost, pause for a moment and take a breath. Maybe take a walk. Then retrace your steps (in the tutorial, not the walk.) Make sure you've followed each step of the tutorial. It's easy to make typos or accidentally skip over important steps.
+Getting stuck when coding (and debugging) is a natural part of the programming process. If you find yourself stuck on a problem or lost, pause for a moment and take a breath. Maybe take a walk. Then retrace your steps (in the tutorial, not the walk). Make sure you've followed each step of the tutorial. It's easy to make typos or accidentally skip over important steps.
