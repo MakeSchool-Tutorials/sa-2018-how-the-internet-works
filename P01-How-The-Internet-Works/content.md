@@ -44,7 +44,7 @@ Once the HTTP request is sent out by the browser, the HTTP request travels throu
 
 ### 3. Process Request
 
-The web server is a special type of computer that runs web applications. Once the server recieves the HTTP request, the web app running on the server will look at all the information within the request and decide what to do with it. Programmers write code that determines what the web app will do with each incoming HTTP request.
+The web server is a special type of computer that runs web applications. Once the server receives the HTTP request, the web app running on the server will look at all the information within the request and decide what to do with it. Programmers write code that determines what the web app will do with each incoming HTTP request.
 
 Once the request is processed, the web app will decide whether it needs to access the database. If it does, it'll access the database to perform a CRUD operation, otherwise it'll skip accessing the database (step 4) and send a response back to the user directly (step 5).
 
@@ -77,20 +77,22 @@ Now that you have a mental model of _how the internet works_, we can talk about 
 In our web curriculum, you'll be using the following technologies:
 
 Front-end
+
 1. HTML
 2. CSS
 3. JavaScript (Browser)
 
 Back-end
+
 4. NodeJS (JavaScript)
 5. ExpressJS
 6. MongoDB
 
-Let's look at how each technology fits into our simplfied model of the internet:
+Let's look at how each technology fits into our simplified model of the internet:
 
 ![Technology Stack](assets/technology_stack.png)
 
-As you can see in the diagram above, each technology has it's own purpose and responsiblity.
+As you can see in the diagram above, each technology has it's own purpose and responsibility.
 
 On the front-end, we'll need to use HTML, CSS and JavaScript (Client) to build the websites that users will see and interactive with.
 
@@ -100,7 +102,7 @@ By learning to build and use these technologies together, we'll be well on our w
 
 > [info]
 >
-In web development, we use the term client to refer to a device that sends and recieves requests from a web server. In our context, we'll be using the term client to refer to the browser, but it could also be a phone, table, or smart toaster!
+In web development, we use the term client to refer to a device that sends and receives requests from a web server. In our context, we'll be using the term client to refer to the browser, but it could also be a phone, table, or smart toaster!
 
 # Up Next
 
