@@ -25,18 +25,7 @@ Open a _New Tab_ page in your Google Chrome web browser. You should see the foll
 
 Next, find your operating system and following the corresponding instructions to open the DevTools.
 
-## Open DevTools on Windows
-
-> [action]
-Open DevTools on Windows:
->
-TODO:
-
-> [info]
->
-An easy shortcut you can use to open the DevTools is by pressing 'Ctrl + Shift + i'.
-
-## Open DevTools on Mac
+## Open DevTools
 
 > [action]
 Open DevTools on macOS:
@@ -45,9 +34,11 @@ Open DevTools on macOS:
 1. In the _App Menu_, navigate to the following: View > Developer > Developer Tools. ![DevTools Menu Tree](assets/devtools_menu_tree.png)
 1. Confirm that you see the DevTools window in the bottom pane of your browser. ![DevTools Windows](assets/devtools_window.png)
 
+<!--  -->
+
 > [info]
 >
-An easy shortcut you can use to open the DevTools is by pressing 'CMD + Option + i'.
+An easy shortcut you can use to open the DevTools is by pressing 'CMD + Option + i' (or 'Ctrl + Shift + i' on Windows).
 
 # HTTP Request/Response Cycle in Action
 
@@ -65,7 +56,7 @@ Let's setup our DevTools window to observe the HTTP request/response cycle.
 >
 With your DevTools Window open, navigate to the _Network_ tab in the toolbar at the top of the DevTools window. ![Network Panel](assets/network_panel.png)
 
-Using the _Network_ tool, we can observe and log all HTTP requests and their corresponding responses. By default, DevTools automatically records all network traffic when the DevTools window is open. This is denoted by the red _Record Network Log_ button. 
+Using the _Network_ tool, we can observe and log all HTTP requests and their corresponding responses. By default, DevTools automatically records all network traffic when the DevTools window is open. This is denoted by the red _Record Network Log_ button.
 
 Let's look at what sending HTTP requests look like.
 
@@ -140,7 +131,7 @@ Do you remember what each tool is used for?
 >
 The DevTools have many more tools and functionality that are out of the scope of this tutorial. As you advance as a web developer, you'll continue to learn more about the DevTools and how to use them to view, test and debug our front-end code.
 
-These tools will become especially useful as we learn front-end development. 
+These tools will become especially useful as we learn front-end development.
 
 > [challenge]
 >
