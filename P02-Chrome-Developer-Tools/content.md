@@ -90,7 +90,7 @@ Pretty cool huh? We were able to peer into the actual HTTP request/response that
 
 Each web page is made of HTML, CSS and JavaScript. Just now, we learned how to examine the outgoing and incoming network traffic. Next, we'll learn how to look at the HTML, CSS and JavaScript that's used by the browser for any given web page.
 
-insert diagram here of html css js ??
+<!-- insert diagram here of html css js ?? -->
 
 > [action]
 To look at the code that the browser renders:
